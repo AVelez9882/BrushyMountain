@@ -70,12 +70,17 @@
     <Content Include="Content\All.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\feather-icon.css" />
+    <Content Include="Content\fontawesome.min.css" />
+    <Content Include="Images\arrow.png" />
     <Content Include="Images\barbedwire.png" />
     <Content Include="Images\Brushy.png" />
     <Content Include="Images\brushylogo.png" />
     <Content Include="Images\car.jpg" />
     <Content Include="Images\directions.png" />
     <Content Include="Images\distillery.png" />
+    <Content Include="Images\fingerleft.jpg" />
+    <Content Include="Images\fingerright.jpg" />
     <Content Include="Images\frozenhead.png" />
     <Content Include="Images\moonshine.png" />
     <Content Include="Images\mountains.jpg" />
@@ -85,6 +90,7 @@
     <Content Include="Images\visitbrushy.png" />
     <Content Include="Images\warden.png" />
     <Content Include="Images\weather.png" />
+    <Content Include="Images\wyldstallyns.jpg" />
     <Content Include="Index.html" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.js" />

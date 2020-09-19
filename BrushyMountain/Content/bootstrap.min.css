@@ -4343,8 +4343,8 @@ input[type=button].btn-block, input[type=reset].btn-block, input[type=submit].bt
 .navbar-nav {
 	display: -ms-flexbox;
 	display: flex;
-	-ms-flex-direction: column;
-	flex-direction: column;
+	-ms-flex-direction: inherit;
+	flex-direction: inherit;
 	padding-left: 0;
 	margin-bottom: 0;
 	list-style: none
