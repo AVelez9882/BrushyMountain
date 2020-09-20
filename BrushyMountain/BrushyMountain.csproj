@@ -70,8 +70,7 @@
     <Content Include="Content\All.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
-    <Content Include="Content\feather-icon.css" />
-    <Content Include="Content\fontawesome.min.css" />
+    <Content Include="Content\sweetalert.css" />
     <Content Include="Images\arrow.png" />
     <Content Include="Images\barbedwire.png" />
     <Content Include="Images\Brushy.png" />
@@ -79,14 +78,19 @@
     <Content Include="Images\car.jpg" />
     <Content Include="Images\directions.png" />
     <Content Include="Images\distillery.png" />
+    <Content Include="Images\facebook.png" />
     <Content Include="Images\fingerleft.jpg" />
     <Content Include="Images\fingerright.jpg" />
     <Content Include="Images\frozenhead.png" />
+    <Content Include="Images\instagram.png" />
+    <Content Include="Images\menu.png" />
+    <Content Include="Images\menugrid.png" />
     <Content Include="Images\moonshine.png" />
     <Content Include="Images\mountains.jpg" />
     <Content Include="Images\paperboard-texture.jpg" />
     <Content Include="Images\paranormal.png" />
     <Content Include="Images\shopbrushy.png" />
+    <Content Include="Images\tweet.png" />
     <Content Include="Images\visitbrushy.png" />
     <Content Include="Images\warden.png" />
     <Content Include="Images\weather.png" />
@@ -97,6 +101,7 @@
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-3.5.1.min.js" />
     <Content Include="Scripts\popper.min.js" />
+    <Content Include="Scripts\sweetalert.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
